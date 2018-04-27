@@ -1,0 +1,14 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Project [wah.PRJPCB]
+   Generated File[wah.GBL]
+   Generated File[wah.GPT]
+   Generated File[wah.GPB]
+   Generated File[wah.RUL]
+   Generated File[wah.REP]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 05:01:03 p.m. On 23/12/2010
